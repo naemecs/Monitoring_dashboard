@@ -1,0 +1,185 @@
+initializing_thin_client | 
+loadingSpinner | 
+centeringContainer | Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share
+viz-client-container | Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share
+main-content | Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+dashboard-viewport | Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+dashboard-spacer | Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+tab-dashboard-region | Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+tabZoneId8 | Radio Towers Dashboard
+tabZoneId1 | Link Map
+© Mapbox© OSM
+title3855800012607193825_8182193712607494692 | Link Map
+tab-title-description-3855800012607193825_8182193712607494692 | 
+view3855800012607193825_8182193712607494692 | © Mapbox© OSM
+tab-vizStatus | 
+tabZoneId2 | Network Overview (Select bar to filter)
+title3855800012607193825_869433279981133230 | Network Overview (Select bar to filter)
+tab-title-description-3855800012607193825_869433279981133230 | 
+view3855800012607193825_869433279981133230 | 
+tab-vizStatus | 
+tabZoneId3 | Link Data (Select link to highlight)
+title3855800012607193825_5574288746370096560 | Link Data (Select link to highlight)
+tab-title-description-3855800012607193825_5574288746370096560 | 
+view3855800012607193825_5574288746370096560 | 
+tab-vizStatus | 
+tabZoneId4 | 
+tabZoneId5 | Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+tableau_base_legend_color_q_Cell%20Map | Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+rgb(31,119,180) | 
+rgb(188,189,34) | 
+rgb(44,160,44) | 
+rgb(152,223,138) | 
+rgb(214,39,40) | 
+tabZoneId23 | Capacity (Mb/s)
+54
+160
+345
+tableau_base_legend_size_q_Cell%20Map | Capacity (Mb/s)
+54
+160
+345
+line_1 | 
+line_3 | 
+line_4 | 
+tabZoneId24 | 
+tabZoneId26 | 
+toolbar-container | View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share
+viz-viewer-toolbar | View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share
+tableauPublicButton | View on Tableau Public
+undo | Undo
+redo | Redo
+revert | Revert
+replay | Replay Animation
+replay-secondary | Replay Speed Options
+download | Download
+fullscreen | Full Screen
+share | Share

@@ -1,0 +1,206 @@
+ID: typeStyleContainer | Text:  | Hidden | Tag: <style> | XPath: /html/head/style[2]
+ID: twitter_creator | Text:  | Hidden | Tag: <head> | XPath: /html/head/head
+ID: primaryContent | Text:  | Hidden | Tag: <iframe> | XPath: /html/body/iframe
+ID: primaryContentLink | Text:  | Hidden | Tag: <a> | XPath: /html/body/a
+ID: tableau-spinner-styles | Text:  | Hidden | Tag: <style> | XPath: /html/body/style[2]
+ID: initializing_thin_client | Text:  | Visible | Tag: <div> | XPath: /html/body/div
+ID: loadingSpinner | Text:  | Hidden | Tag: <div> | XPath: /html/body/div/div
+ID: svg-spinner-container | Text:  | Hidden | Tag: <div> | XPath: /html/body/div/div/div
+ID: svg-spinner | Text:  | Hidden | Tag: <svg> | XPath: /html/body/div/div/div/svg
+ID: fade | Text:  | Hidden | Tag: <lineargradient> | XPath: /html/body/div/div/div/svg/lineargradient
+ID: head | Text:  | Hidden | Tag: <path> | XPath: /html/body/div/div/div/svg/path
+ID: tail | Text:  | Hidden | Tag: <path> | XPath: /html/body/div/div/div/svg/path[2]
+ID: loadingGlassPane | Text:  | Hidden | Tag: <div> | XPath: /html/body/div/div[2]
+ID: centeringContainer | Text: Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share | Visible | Tag: <div> | XPath: /html/body/div[2]
+ID: staticImage | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div
+ID: tabBootErr | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div[2]
+ID: tabBootErrTitle | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div[2]/div
+ID: tabBootErrBody | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div[2]/div[2]
+ID: tabBootErrMsg | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div[2]/div[2]/div
+ID: viz-client-container | Text: Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345
+View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]
+ID: main-content | Text: Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345 | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div
+ID: dashboard-viewport | Text: Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345 | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div
+ID: dashboard-spacer | Text: Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345 | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div
+ID: tab-container | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div
+ID: tab-dashboard-region | Text: Radio Towers Dashboard
+Link Map
+© Mapbox© OSM
+Network Overview (Select bar to filter)
+Link Data (Select link to highlight)
+Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled
+Capacity (Mb/s)
+54
+160
+345 | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]
+ID: tabZoneId8 | Text: Radio Towers Dashboard | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div
+ID: tabZoneId1 | Text: Link Map
+© Mapbox© OSM | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[4]
+ID: title3855800012607193825_8182193712607494692 | Text: Link Map | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[4]/div/div/div/div/h2/div
+ID: tab-title-description-3855800012607193825_8182193712607494692 | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[4]/div/div/div/div/h2/span
+ID: view3855800012607193825_8182193712607494692 | Text: © Mapbox© OSM | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[4]/div/div/div/div/div[11]
+ID: tab-vizStatus | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[4]/div/div/div/div/div[11]/span
+ID: tabZoneId2 | Text: Network Overview (Select bar to filter) | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[5]
+ID: title3855800012607193825_869433279981133230 | Text: Network Overview (Select bar to filter) | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[5]/div/div/div/div/h2/div
+ID: tab-title-description-3855800012607193825_869433279981133230 | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[5]/div/div/div/div/h2/span
+ID: view3855800012607193825_869433279981133230 | Text:  | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[5]/div/div/div/div/div[11]
+ID: tab-vizStatus | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[5]/div/div/div/div/div[11]/span
+ID: tabZoneId3 | Text: Link Data (Select link to highlight) | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[6]
+ID: title3855800012607193825_5574288746370096560 | Text: Link Data (Select link to highlight) | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[6]/div/div/div/div/h2/div
+ID: tab-title-description-3855800012607193825_5574288746370096560 | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[6]/div/div/div/div/h2/span
+ID: view3855800012607193825_5574288746370096560 | Text:  | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[6]/div/div/div/div/div[11]
+ID: tab-vizStatus | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[6]/div/div/div/div/div[11]/span
+ID: tabZoneId4 | Text:  | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[7]
+ID: tabZoneId5 | Text: Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]
+ID: tableau_base_legend_color_q_Cell%20Map | Text: Link Status
+Planned
+Build
+Operational
+Operational Backup
+Cancelled | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]/div/div/div
+ID: rgb(31,119,180) | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]/div/div/div/div[2]/div/div/span/div/span/span
+ID: rgb(188,189,34) | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]/div/div/div/div[2]/div/div/span/div[2]/span/span
+ID: rgb(44,160,44) | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]/div/div/div/div[2]/div/div/span/div[3]/span/span
+ID: rgb(152,223,138) | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]/div/div/div/div[2]/div/div/span/div[4]/span/span
+ID: rgb(214,39,40) | Text:  | Visible | Tag: <span> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[8]/div/div/div/div[2]/div/div/span/div[5]/span/span
+ID: tabZoneId23 | Text: Capacity (Mb/s)
+54
+160
+345 | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[9]
+ID: tableau_base_legend_size_q_Cell%20Map | Text: Capacity (Mb/s)
+54
+160
+345 | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[9]/div/div/div
+ID: line_1 | Text:  | Visible | Tag: <canvas> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[9]/div/div/div/div[2]/div/div/span/div/span/canvas
+ID: line_3 | Text:  | Visible | Tag: <canvas> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[9]/div/div/div/div[2]/div/div/span/div[2]/span/canvas
+ID: line_4 | Text:  | Visible | Tag: <canvas> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[9]/div/div/div/div[2]/div/div/span/div[3]/span/canvas
+ID: tabZoneId24 | Text:  | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[10]
+ID: tabZoneId26 | Text:  | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div/div/div[2]/div[11]
+ID: right-panel | Text:  | Hidden | Tag: <div> | XPath: /html/body/div[2]/div[3]/div/div[2]
+ID: toolbar-container | Text: View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div[2]
+ID: viz-viewer-toolbar | Text: View on Tableau Public
+Undo
+Redo
+Revert
+Replay Animation
+Replay Speed Options
+Download
+Full Screen
+Share | Visible | Tag: <div> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]
+ID: tableauPublicButton | Text: View on Tableau Public | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div/div/button
+ID: undo | Text: Undo | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div/button
+ID: redo | Text: Redo | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[2]/button
+ID: revert | Text: Revert | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[3]/button
+ID: replay | Text: Replay Animation | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[4]/div/button
+ID: replay-secondary | Text: Replay Speed Options | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[4]/div/button[2]
+ID: download | Text: Download | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[6]/button
+ID: fullscreen | Text: Full Screen | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[7]/button
+ID: share | Text: Share | Visible | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[8]/button
+ID: toolbar-overflow | Text:  | Hidden | Tag: <button> | XPath: /html/body/div[2]/div[3]/div[2]/div[2]/div[2]/div[9]/button
+ID: tsConfigContainer | Text:  | Hidden | Tag: <textarea> | XPath: /html/body/div[3]/textarea
+ID: staticConfigContainer | Text:  | Hidden | Tag: <textarea> | XPath: /html/body/div[4]/textarea
